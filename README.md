@@ -16,13 +16,13 @@ O projeto implementa um pipeline completo de Ciência de Dados:
 ## 📋 Arquivos do Projeto
 
 
-*    df1_processado.csv: Dataset de TREINO (Cenas variadas, limpo).
-*    360_test.csv: Dataset de TESTE (Cena inédita, limpo).
-*    filtrar_colunas.py: Script da Etapa 1 (Limpeza e Seleção de Features).
-*    fps_prediction_OOS_testing.py: Script da Etapa 2 (Treino, Teste Out-of-Sample e Feature Importance).
-*    model_performace.py: Script da Etapa 3 (Comparação Metodológica entre Shuffle vs OOS).
-*    README.md: Documentação do projeto.
-*    requirements.txt: Lista de dependências do Python.
+*    **df1_processado.csv:** Dataset de TREINO (Cenas variadas, limpo).
+*    **360_test.csv:** Dataset de TESTE (Cena inédita, limpo).
+*    **filtrar_colunas.py:** Script da Etapa 1 (Limpeza e Seleção de Features para saida do unreal csvprofiler).
+*    **fps_prediction_OOS_testing.py:** Script da Etapa 2 (Treino, Teste Out-of-Sample e Feature Importance).
+*    **model_performace.py:** Script da Etapa 3 (Comparação Metodológica entre Shuffle vs OOS).
+*    **README.md:** Documentação do projeto.
+*    **requirements.txt:** Lista de dependências do Python.
 
 ---
 
