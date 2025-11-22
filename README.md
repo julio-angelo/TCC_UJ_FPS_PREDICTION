@@ -54,6 +54,7 @@ Este script processa o arquivo bruto gerado pelo comando `csvprofile` do Unreal 
     ```bash
     python filtrar_colunas.py
     ```
+Para melhor entendimento sobre o Unreal CSV profiler visite: https://motiongorilla.com/articles/8/
 
 #### 🔹 Etapa 2: Treinamento e Validação Real (`fps_prediction_OOS_testing.py`)
 Este é o script principal de validação. Ele treina o modelo no dataset principal (`df1_processado.csv`) e testa sua capacidade de generalização em um arquivo separado (`360_test.csv`).
